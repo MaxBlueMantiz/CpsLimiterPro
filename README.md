@@ -1,4 +1,4 @@
-# CpsLimiterPro
+# Snowfall CPS Limiter
 
 
 
